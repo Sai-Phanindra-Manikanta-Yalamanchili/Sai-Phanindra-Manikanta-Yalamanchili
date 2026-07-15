@@ -76,16 +76,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sai-Phanindra-Manikanta-Yalamanchili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Phanindra-Manikanta-Yalamanchili&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Phanindra-Manikanta-Yalamanchili&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Phanindra-Manikanta-Yalamanchili&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Phanindra-Manikanta-Yalamanchili&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-Phanindra-Manikanta-Yalamanchili&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -95,9 +90,8 @@
 - 🌐 Portfolio: **[saiyalamanchili.com](https://saiyalamanchili.com)**
 - 💼 LinkedIn: **[Sai Phanindra Manikanta Yalamanchili](https://www.linkedin.com/in/saiphanindramanikanta-yalamanchili/)**
 - 📸 Instagram: **[@99_phanindra](https://www.instagram.com/99_phanindra)**
-- 📧 personal: **phanindra1904@gmail.com**
 - 📧 Business: **info@saiyalamanchili.com**
-- 📧 Business: **sai@trenith.com**
+- 📧 Work: **sai@trenith.com**
 
 ---
 
